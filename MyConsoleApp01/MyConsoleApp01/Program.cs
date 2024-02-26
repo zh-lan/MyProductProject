@@ -28,7 +28,7 @@ namespace MyConsoleApp01
             productList.Add(new Product("B01", "Product B01", 12.99));
             productList.Add(new Product("B02", "Product B02", 22.99));
             productList.Add(new Product("B03", "Product B03", 44.99));
-            productList.Add(new Product("C01", "Product C01", 55.88));
+            productList.Add(new Product("C01", "Product C01", 55.66));
 
             return productList;
         }
