@@ -11,7 +11,7 @@ namespace MyConsoleApp01
         static void Main(string[] args)
         {
             List<Product> prodList = GetProductList();
-            Console.WriteLine($"Code | Name     | Price);
+            Console.WriteLine($"Code | Name     | Price");
             foreach (Product p in prodList)
             {
                 Console.WriteLine($"{p.ProductCode} | {p.ProductName} | {p.Price}");
