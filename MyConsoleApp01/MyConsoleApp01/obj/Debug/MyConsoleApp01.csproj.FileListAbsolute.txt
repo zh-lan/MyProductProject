@@ -1,0 +1,6 @@
+D:\Work\MyGitHub\MyConsoleApp01\MyConsoleApp01\bin\Debug\MyConsoleApp01.exe.config
+D:\Work\MyGitHub\MyConsoleApp01\MyConsoleApp01\bin\Debug\MyConsoleApp01.exe
+D:\Work\MyGitHub\MyConsoleApp01\MyConsoleApp01\bin\Debug\MyConsoleApp01.pdb
+D:\Work\MyGitHub\MyConsoleApp01\MyConsoleApp01\obj\Debug\MyConsoleApp01.csproj.CoreCompileInputs.cache
+D:\Work\MyGitHub\MyConsoleApp01\MyConsoleApp01\obj\Debug\MyConsoleApp01.exe
+D:\Work\MyGitHub\MyConsoleApp01\MyConsoleApp01\obj\Debug\MyConsoleApp01.pdb
